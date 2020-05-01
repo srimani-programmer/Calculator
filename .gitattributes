@@ -1,4 +1,5 @@
 *.dart linguist-detectable=true
 *.java linguist-detectable=false
+*.d linguist-detectable=false
 snapshot_blob.bin.d linguist-detectable=false
 *.swift linguist-detectable=false
